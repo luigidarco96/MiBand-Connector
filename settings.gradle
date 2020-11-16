@@ -1,0 +1,3 @@
+include ':miBandConnector'
+include ':app'
+rootProject.name = "MiBand-Connector"
